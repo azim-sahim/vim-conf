@@ -2,7 +2,7 @@
 
 call plug#begin('~/.vim/plugged')
 "themes
-Plug 'morhetz/gruvbox'
+
 Plug 'arcticicestudio/nord-vim'
 
 "plugins
